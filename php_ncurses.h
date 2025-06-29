@@ -84,6 +84,7 @@ ZEND_EXTERN_MODULE_GLOBALS(ncurses)
 
 #endif  /* PHP_NCURSES_H */
 
+typedef unsigned long ulong;
 
 /*
  * Local variables:
